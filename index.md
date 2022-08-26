@@ -1,6 +1,6 @@
 # Vidit's First CS193 Homework
 
-**Some of my favorite things about CS193 are:
+**Some of my favorite things about CS193 are:**
 - it taught me to use GitHub :)
 - the instructors are cool!
 - the class does not start at 7:30 am
